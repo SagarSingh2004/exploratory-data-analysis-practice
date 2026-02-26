@@ -112,7 +112,7 @@ This project demonstrates practical skills in data cleaning, visualization, corr
 
 ## 📂 Project Structure
 
-Shark-Tank-India-EDA/
+Shark_Tank_India_Case_Study/
 │
 ├── Shark_Tank_India_EDA.ipynb
 ├── EDA_Shark_Tank_India.xlsx
@@ -123,4 +123,5 @@ Shark-Tank-India-EDA/
 ## 👨‍💻 Author
 
 Sagar Singh
+
 Aspiring Data Scientist
